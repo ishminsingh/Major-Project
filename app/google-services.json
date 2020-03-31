@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "851979722975",
+    "firebase_url": "https://smart-retail-pos.firebaseio.com",
+    "project_id": "smart-retail-pos",
+    "storage_bucket": "smart-retail-pos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851979722975:android:733af5f515be8a0b96896a",
+        "android_client_info": {
+          "package_name": "dev.ishmin.firebareotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851979722975-akhr19r5c2s1mmosnhrj815fl1mddou1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.ishmin.firebareotp",
+            "certificate_hash": "7081a61c101f6bab666e1ac9b355ac57b2297c49"
+          }
+        },
+        {
+          "client_id": "851979722975-mr0k16qn47l8dqv87mtit44ltu03k923.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB005arRGpFyUgmsxe8xJzJxRNEuXd2LTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851979722975-mr0k16qn47l8dqv87mtit44ltu03k923.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851979722975:android:8113d4bc6b51817a96896a",
+        "android_client_info": {
+          "package_name": "dev.ishmin.new2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851979722975-mr0k16qn47l8dqv87mtit44ltu03k923.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB005arRGpFyUgmsxe8xJzJxRNEuXd2LTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851979722975-mr0k16qn47l8dqv87mtit44ltu03k923.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851979722975:android:72ad92d1398d4d4e96896a",
+        "android_client_info": {
+          "package_name": "dev.ishmin.smartretailpos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851979722975-mr0k16qn47l8dqv87mtit44ltu03k923.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB005arRGpFyUgmsxe8xJzJxRNEuXd2LTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851979722975-mr0k16qn47l8dqv87mtit44ltu03k923.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
